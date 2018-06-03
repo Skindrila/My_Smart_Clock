@@ -15,7 +15,6 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.TimePicker;
 import android.widget.Toast;
-import com.example.skindrila.my_smart_clock.R;
 
 import java.util.Calendar;
 
@@ -138,7 +137,7 @@ public class MainActivity extends AppCompatActivity {
                         + String.valueOf(month + 1) + "." + String.valueOf(year) + "!");
                 updateAlarmTxt.setBackgroundColor(Color.GREEN);
 
-                pendingIntent = PendingIntent.getBroadcast(MainActivity.this,0,intent,PendingIntent.FLAG_UPDATE_CURRENT);
+                pendingIntent = PendingIntent.getBroadcast(MainActivity.this,0, intent, PendingIntent.FLAG_UPDATE_CURRENT);
                 alarmManager.setExact(AlarmManager.RTC_WAKEUP, calendar.getTimeInMillis(), pendingIntent);
             }
         });

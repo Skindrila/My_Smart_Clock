@@ -1,6 +1,5 @@
 package com.example.skindrila.my_smart_clock;
 
-
 import android.content.SharedPreferences;
 import android.media.MediaPlayer;
 import android.support.v7.app.AppCompatActivity;

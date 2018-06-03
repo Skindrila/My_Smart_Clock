@@ -27,9 +27,6 @@ public class SetTaskActivity extends AppCompatActivity {
     private TextView txtRemaining;
 
     @Override
-    public void onBackPressed() {}
-
-    @Override
     protected void onStop() {
         super.onStop();
     }
