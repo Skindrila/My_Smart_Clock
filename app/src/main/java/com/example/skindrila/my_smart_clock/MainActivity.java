@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     private TextView updateAlarmTxt;
     private boolean isSet = false;
     private boolean isSetDate = false;
-    private int date,month,year;
+    private int date, month, year;
 
     @Override
     protected void onResume() {
@@ -130,7 +130,6 @@ public class MainActivity extends AppCompatActivity {
                 if(Hour < 10) HourString = "0" + HourString;
 
                 checkTime();
-
 
                 updateAlarmTxt.setText("Alarm set on " + HourString + ":"
                         + MinuteString + ", on day " + String.valueOf(date) + "."
