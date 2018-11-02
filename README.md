@@ -26,12 +26,16 @@ My smart clock - это мобильное приложение-будильни
 Проект использует Android 5.0 ([Lollipop](https://developer.android.com/reference/android/os/Bu..)), API Level: 25, выполнен в интегрированной среде разработки для работы с платформой Android - Android Studio. 
 #### 2.2. Интерфейс пользователя <a name="2.2"></a> 
 - Главный экран 
+
 ![Main Page](https://user-images.githubusercontent.com/38924756/47905384-13992900-de98-11e8-90b5-201d98e3f097.png) 
 - Окно выбора даты
+
 ![Choose date](https://user-images.githubusercontent.com/38924756/47905429-30cdf780-de98-11e8-8017-17914cbe4131.png)
-- Окно выбора мелодии 
+- Окно выбора мелодии
+
 ![Choose music](https://user-images.githubusercontent.com/38924756/47905447-3f1c1380-de98-11e8-9071-c0ce7b0615ff.png)
-- Окно срабатывания 
+- Окно срабатывания
+
 ![Trip page](https://user-images.githubusercontent.com/38924756/47905472-50fdb680-de98-11e8-807a-1641de955298.png)
 
 #### 2.3. Характеристики пользователей <a name="2.3"></a> 
