@@ -2,5 +2,5 @@
 ### Sequences: ([Ru](https://github.com/Skindrila/My_Smart_Clock/blob/master/Documentation/Diagrams/Sequences/Sequences.md))
 ### UseCase: ([Ru](https://github.com/Skindrila/My_Smart_Clock/blob/master/Documentation/Diagrams/UseCase/UseCase.md))
 ### Class Diagram: ([Ru](https://github.com/Skindrila/My_Smart_Clock/blob/master/Documentation/Diagrams/Classes/Classes.md))
-### Deployment Diagram: ([Ru](https://github.com/SergeiObolevich/ExpenseCounter/blob/master/Documentation/Diagrams/Diagrams.md))
+### Deployment Diagram: ([Ru](https://github.com/Skindrila/My_Smart_Clock/blob/master/Documentation/Diagrams/Deployments/Deployment.md))
 ### State Diagram: ([Ru](https://github.com/Skindrila/My_Smart_Clock/blob/master/Documentation/Diagrams/States/States.md))
