@@ -24,4 +24,4 @@
 
 ### 5. Установка/выключение  будильника<a name="5"></a>
 
-![Установка/выключение  будильника](https://user-images.githubusercontent.com/38924756/48238902-da077700-e3dd-11e8-9d97-923da8b0a14f.PNG)
+![Установка/выключение  будильника](https://user-images.githubusercontent.com/38924756/48253747-21f7bf80-e419-11e8-8268-cb2d9a458427.png)
